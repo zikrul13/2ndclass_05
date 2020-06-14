@@ -1,0 +1,82 @@
+body{
+	
+	margin: auto;
+}
+img{
+	max-width: 100%;
+}
+.img{
+	padding: 0px;
+
+
+}
+.container{
+width: 1200px;
+margin: auto;
+}
+h1{
+	font-size: 50px;
+	margin: 50px;
+	text-align: center;
+	margin-top: 50px
+
+}
+
+.a{
+	color: orange;
+}
+.b{
+	color: skyblue;
+}
+.c{
+	color: purple;
+}
+.d{
+	color: #33ff00;
+}
+.post{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 20px;
+
+}
+.post1{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.post2{
+	width: 200px;
+	margin-left: 280px;
+	font-size: 26px;
+	color: #999999;
+
+}
+.post3{
+	width: 600px;
+	margin-left: 280px;
+	font-size: 12px;
+	color: #555555;
+	text-align: justify;
+
+}
+.post4{
+	width: 600px;
+	margin-left: 280px;
+	font-size: 30px;
+	color: #03A9F4;
+	text-align: center;
+	height: 200px;
+	margin-top: 20px;
+	padding: 30px;
+	margin-bottom: 100px;
+
+}
+.bgcolor{
+	background-color: #060200;
+}
+	
+	
